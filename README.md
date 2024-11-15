@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a CSE student passionate about new tchnologies
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshkumarcv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-kumar-cv-7841aa24a/)
 ---
 
 ### 👨‍💻 Current Projects
