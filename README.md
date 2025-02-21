@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a CSE student passionate about new tchnologies
 ### 🔧 Tech Stack & Tools
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
 - **Databases**: ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 - **Other Tools**: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
 
 ---
